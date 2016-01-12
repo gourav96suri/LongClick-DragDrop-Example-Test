@@ -1,1 +1,1 @@
-Android App which tests the basics of how to use Drag & Drop and Long Clicks in your apps. If it is helpful to you then follow me (you can give it a star too), I will make some more useful standard codes.. Happy Coding :)
+Android App which tests the basics of how to use Drag & Drop and Long Clicks in your apps. The demo video of the App is available on youtube : https://www.youtube.com/watch?v=vDTrPI3zG-k If it is helpful to you then follow me (you can give it a star too), I will make some more useful standard codes.. Happy Coding :)
